@@ -58,10 +58,3 @@ Program rozszerza bibliotekę o:
 
 W nowych funkcjonalnościach użyto m.in. `lambda`, `filter`, `map`, `sorted` oraz comprehensions.
 
-## Jak wrzucić na GitHuba
-
-1. Wejdź do swojego repozytorium na GitHubie.
-2. Utwórz nowy folder albo nową gałąź dla zadania 3.
-3. Wrzuć pliki `biblioteka.py` i `README.md`.
-4. Zrób commit z opisem, np. `Dodanie rozwiązania zadania 3`.
-5. Do oddania wyślij link do repozytorium albo do folderu z zadaniem 3.
